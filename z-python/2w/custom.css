@@ -1,0 +1,12 @@
+.CodeMirror, div.CodeMirror-code, div.output_area pre, div.output_wrapper pre {
+font-family: Consolas !important;
+font-size: 20px;
+lline-height: 180%;}
+
+.container { width:95% !important; }
+
+div#notebook, div.prompt {
+font-family: Consolas !important;
+font-size: 20px;
+line-height: 180%;}
+
